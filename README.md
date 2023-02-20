@@ -38,7 +38,7 @@ I am a 4th year student of Computer Technology and Information Systems at Mersin
 
 - 💻⌨ &nbsp; Exploring new tech and coding modern stuffs.
 - 📰🗞️ &nbsp; To follow technology and science closely
-- 🎨📐 &nbsp; Interesting in design UI&UX.
+- 🎨📐 &nbsp; Learning UI&UX for web design.
 - 🎵🎹 &nbsp; Making and listening to music.
 - 📷🏞️ &nbsp; Traveling and photographing natural beauties.
 <br>
