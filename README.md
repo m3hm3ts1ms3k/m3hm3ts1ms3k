@@ -33,6 +33,7 @@ I am a 4th year student of Computer Technology and Information Systems at Mersin
 - 📫 &nbsp; How to reach me: M3hm3ts1ms3k@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/19UlDGgTvE_fvz1RLdiLVYEmhHTL2u0Sw/view?usp=sharing).
 <br>
+
 ### My Hobbies:
 
 - 💻⌨ &nbsp; Exploring new tech and coding modern stuffs.
@@ -41,6 +42,7 @@ I am a 4th year student of Computer Technology and Information Systems at Mersin
 - 🎵🎹 &nbsp; Making and listening to music.
 - 📷🏞️ &nbsp; Traveling and photographing natural beauties.
 <br>
+
 ### Languages and Tools:
 <div align="center">
 <img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp">
