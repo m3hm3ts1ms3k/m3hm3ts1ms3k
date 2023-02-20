@@ -27,7 +27,7 @@ I am a 4th year student of Computer Technology and Information Systems at Mersin
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Bootstrap, Javascript, Vue.js etc.
+- 🛠 &nbsp; I’m currently working with C#, ASP.NET, SQL, <br /> HTML, CSS, Bootstrap, Javascript, Vue.js .
 - 🚀 &nbsp; I’m currently learning Full Stack Web Development.
 - 👨🏻‍💻 &nbsp; Projects I've finished and worked on [Github](https://github.com/m3hm3ts1ms3k?tab=repositories).
 - 📫 &nbsp; How to reach me: M3hm3ts1ms3k@gmail.com.
